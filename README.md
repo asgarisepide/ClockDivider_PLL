@@ -2,3 +2,5 @@
 
 
 ![ClockDivider](ClockDivider.png)
+
+![CLKDivider](CLKDivider.png)
